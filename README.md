@@ -4,7 +4,7 @@
 
 
 🆔 | Problem | Official Solution | C++ | Java | Python 
-:-- | :-- |  :-- |  :--: |  :-- |  :-- 
+:-- | :-- |  :-- |  -- |  :-- |  :-- 
 | 00026 | [Remove Duplicates from Sorted Array](./0026-Remove-Duplicates-from-Sorted-Array) | ✅ |[C++](./0026-Remove-Duplicates-from-Sorted-Array/leetcode26.cpp)| 🈚️ | 🈚️ |
 | 00027 | [	Remove Element](./0027-Remove-Element) | ✅ |[C++](./0027-Remove-Element/leetcode27.cpp)| 🈚️ | 🈚️ |
 | 00075 | [Sort Colors](./0075-Sort-Colors) | ✅ |[C++](./0075-Sort-Colors/leetcode75.cpp)| 🈚️ | 🈚️ |
@@ -19,9 +19,9 @@
 #### leetcode每日一题
 
 
-Time | Problem | Official Solution| C++ | Java | Python | type
-
-:-- | :-- |  :-- |  :--: |  :-- |  :-- | :--
+Time | 🆔 | Problem | Official Solution| C++ | Java | Python | type
+:-- | :-- |  :-- |  -- |  :-- |  :-- | :-- | :--
+2020-9-26 | 113 | 路径总和 II | 无 | 无 | 无 | 无 |  |
 
 
 
