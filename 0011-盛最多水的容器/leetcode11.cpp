@@ -29,16 +29,17 @@ class Solution {
 public:
     int maxArea(vector<int>& height) {
 
-        if(height.size() <= 1) return -1;
-        int i = 0, j = height.size()-1, res = 0;
-        while( i < j){
-            int h = min(height[i],height[j]);
-            res = max(res, h * (j - i));
-            if(height[i] < height[j]) i++;
-            else j--;
+        int MaxArea = 0;
+        //在[i,j]中间寻找最大面积
+        int i = 0, j =  height.size()-1;
+
+        while( i < j ){
+            int CurArea = ( height[i] > height[j] ? height[j] : height[i]) * (j - i);
+            if( CurArea > MaxArea ) MaxArea = CurArea;
+            height[i] > height[j] ? j-- : i++;
         }
 
-        return res;
+        return MaxArea;
 
     }
 };
