@@ -27,10 +27,7 @@ public:
         int length = 0, curlen = 0, n = nums.size() ;
 
         if(n == 0 ) return 0;
-        if(n == 1 ){
-            if(nums[0] >= s ) return 1;
-            else return 0;
-        }
+        
 
         // 上面这个判断 自己之前就没有想到 用到数组的时候一定要想着索引下表是否会越界！！！
 
