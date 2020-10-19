@@ -14,6 +14,25 @@
 | 00283 | [Move Zeroes](./0283-Move-Zeroes) | ✅ |[C++](./0283-Move-Zeroes/leetcode283.cpp)| 🈚️ | 🈚️ |
 
 
+#### **动态规划，决一死战吧**
+
+🆔 | Problem | Official Solution | C++  
+:-- | :-- |  :-- |  -- |  :-- |  :-- 
+| 00198 | 打家劫舍 | ✅ | solved 
+
+
+
+
+`00198 - 打家劫舍`
+
+**状态定义**
+
+
+
+**状态转移方程**
+
+
+
 
 
 #### leetcode每日一题
