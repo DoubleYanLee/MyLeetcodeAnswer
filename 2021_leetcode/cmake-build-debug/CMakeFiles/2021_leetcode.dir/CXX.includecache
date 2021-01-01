@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yannie/Desktop/MyLeetcodeAnswer/2021_leetcode/main.cpp
+iostream
+-
+fstream
+-
+stdlib.h
+-
+time.h
+-
+stdio.h
+-
+vector
+-
+algorithm
+-
+fstream
+-
+numeric
+-
+unordered_map
+-
+unordered_set
+-
+queue
+-
+
