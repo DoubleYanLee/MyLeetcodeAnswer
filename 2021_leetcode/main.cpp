@@ -10,57 +10,29 @@
 #include <unordered_map>
 #include <unordered_set>
 #include <queue>
+#include <map>
 
 using namespace std;
 
+//通项公式写法
 
-//判断某数乘10是否溢出，就将该数与INT_MAX除以10进行比较
-//一般判断的条件
-//if( res > INT_MAX /10 || res == INT_MAX / 10 && r > 7 )
-
-
-class Solution{
-
+class Solution {
 public:
-    vector<int> maxSlidingWindow(vector<int>& nums, int k) {
-
-        int n = nums. size();
-        priority_queue< pair<int,int> > q;
-        for( int i = 0; i < k ; i++ )
-            q.emplace(make_pair(nums[i], i) );
-
-        vector<int> ans = {q.top().first};
-        for( int i = k; i < n ; i ++ ){
-            q.emplace( make_pair(nums[i], i) );
-            while( q.top().second <= i-k )
-                q.pop();
-            ans.push_back( q.top().first );
-        }
-
-        return ans;
-
+    int fib(int n) {
+        double sqrt5 = sqrt(5);
+        double fibN = pow((1 + sqrt5) / 2, n) - pow((1 - sqrt5) / 2, n);
+        return round(fibN / sqrt5);
     }
-
 };
-
 
 
 int main(){
 
-    vector<int> num {1,3,-1,-3,5,3,6,7};
 
-    vector<int> res =  Solution(). maxSlidingWindow(num,3) ;
 
-    for( auto it : res )
-        cout << it << " ";
+   cout << Solution().fib( 4 ) << endl;
+
 
 
     return 0;
 }
-
-
-
-
-
-
-
