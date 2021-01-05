@@ -1,3 +1,7 @@
+//
+// Created by Yannie Lee on 1/5/21.
+//
+
 #include <iostream>
 #include <fstream>
 #include <stdlib.h>
@@ -14,6 +18,7 @@
 
 using namespace std;
 
+//双指针优化了一下
 class Solution {
 public:
     vector<vector<int>> largeGroupPositions(string s) {
@@ -31,7 +36,33 @@ public:
         }
 
 
-    return res;
+        return res;
+
+    }
+};
+
+class Solution {
+public:
+    vector<vector<int>> largeGroupPositions(string s) {
+
+        vector< vector<int> > res;
+
+        int start = 0;  int count = 1;  int n = s.size();
+        for( int i = 1; i < n; ++i ){
+            if( s[i] == s[i-1] ){
+                count ++;
+            } else{
+                if( count >= 3 )
+                    res.push_back( {start, i-1} );
+                count = 1;
+                start = i;
+            }
+
+        }
+        if( count >= 3 )
+            res.push_back( {start, n-1} );
+
+        return res;
 
     }
 };
@@ -39,8 +70,8 @@ public:
 int main(){
 
 
-   vector<int> arr {9,4,2,3,4};
-   string s = "abcdddeeeeaabbbcd";
+    vector<int> arr {9,4,2,3,4};
+    string s = "abcdddeeeeaabbbcd";
     vector< vector<int> > result = Solution().largeGroupPositions( s );
     for( auto &it : result ){
         for( auto &item : it )
@@ -48,8 +79,6 @@ int main(){
 
         cout << endl;
     }
-
-
 
     return 0;
 }
