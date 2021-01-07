@@ -16,102 +16,20 @@
       <change afterPath="$PROJECT_DIR$/../../beginning__MachineLearning/liuyubobobo/PlayML/Play.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../beginning__MachineLearning/liuyubobobo/PlayML/pg.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../beginning__MachineLearning/liuyubobobo/PlayML/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/11月每日一题/11_10_31.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/11月每日一题/11_11_514.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/11月每日一题/11_12_922.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/11月每日一题/11_1_140.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/11月每日一题/11_2_349.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/11月每日一题/11_3_941.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/11月每日一题/11_4_57.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/11月每日一题/11_5_127.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/11月每日一题/11_6_1356.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/11月每日一题/11_9_973.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/11月每日一题/leetcode121.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/11月每日一题/ll_8_122.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/11月每日一题/temp.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/DTGH/leetcode1314.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/DTGH/leetcode467.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/DTGH/leetcode787.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第七章二叉树和递归/BinarySearchTree/BinarySearch.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第七章二叉树和递归/BinarySearchTree/BinarySearchTree.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第七章二叉树和递归/BinarySearchTree/leetcode_temp.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第七章二叉树和递归/BinaryTree.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第七章二叉树和递归/leetcode100.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第七章二叉树和递归/leetcode101.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第七章二叉树和递归/leetcode104.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第七章二叉树和递归/leetcode108.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第七章二叉树和递归/leetcode110.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第七章二叉树和递归/leetcode111.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第七章二叉树和递归/leetcode112.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第七章二叉树和递归/leetcode113.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第七章二叉树和递归/leetcode129.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第七章二叉树和递归/leetcode222.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第七章二叉树和递归/leetcode226.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第七章二叉树和递归/leetcode230.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第七章二叉树和递归/leetcode235.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第七章二叉树和递归/leetcode236.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第七章二叉树和递归/leetcode257.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第七章二叉树和递归/leetcode404.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第七章二叉树和递归/leetcode437.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第七章二叉树和递归/leetcode450.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第七章二叉树和递归/leetcode98.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第七章二叉树和递归/temp.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第三章数组/leetcode11.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第三章数组/leetcode125.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第三章数组/leetcode167.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第三章数组/leetcode167_2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第三章数组/leetcode209.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第三章数组/leetcode3.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第三章数组/leetcode344.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第三章数组/leetcode345.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第三章数组/leetcode438.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第三章数组/leetcode76.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第九章动态规划/Fibonaci.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第九章动态规划/knapsack01.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第九章动态规划/knapsack02.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第九章动态规划/leetcode120.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第九章动态规划/leetcode139.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第九章动态规划/leetcode198.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第九章动态规划/leetcode213.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第九章动态规划/leetcode279.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第九章动态规划/leetcode300.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第九章动态规划/leetcode309.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第九章动态规划/leetcode337.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第九章动态规划/leetcode343.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第九章动态规划/leetcode376.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第九章动态规划/leetcode416.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第九章动态规划/leetcode474.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第九章动态规划/leetcode494.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第九章动态规划/leetcode62.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第九章动态规划/leetcode63.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第九章动态规划/leetcode64.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第九章动态规划/leetcode70.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第九章动态规划/leetcode91.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第九章动态规划/temp.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第八章递归和回溯法/leetcode130.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第八章递归和回溯法/leetcode131.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第八章递归和回溯法/leetcode17.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第八章递归和回溯法/leetcode200.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第八章递归和回溯法/leetcode216.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第八章递归和回溯法/leetcode37.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第八章递归和回溯法/leetcode39.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第八章递归和回溯法/leetcode40.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第八章递归和回溯法/leetcode401.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第八章递归和回溯法/leetcode417.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第八章递归和回溯法/leetcode46.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第八章递归和回溯法/leetcode47.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第八章递归和回溯法/leetcode51.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第八章递归和回溯法/leetcode52.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第八章递归和回溯法/leetcode77.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第八章递归和回溯法/leetcode78.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第八章递归和回溯法/leetcode79.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第八章递归和回溯法/leetcode90.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第八章递归和回溯法/leetcode93.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第八章递归和回溯法/temp.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../leetcode算法刷题/第四章查找表/MapUsage.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/2021_leetcode" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/2021_leetcode" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2021_leetcode.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2021_leetcode.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2021_leetcode.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode1711.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode1712.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode1713.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode177.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode239.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode509.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode6.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/January/leetcode6.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode605.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode8.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode830.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode86.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
     </list>
@@ -131,8 +49,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="147">
+              <caret line="51" column="27" lean-forward="true" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -160,8 +78,10 @@
         <option value="$PROJECT_DIR$/leetcode1711.cpp" />
         <option value="$PROJECT_DIR$/leetcode1712.cpp" />
         <option value="$PROJECT_DIR$/leetcode1713.cpp" />
-        <option value="$PROJECT_DIR$/main.cpp" />
         <option value="$PROJECT_DIR$/leetcode830.cpp" />
+        <option value="$PROJECT_DIR$/January/leetcode399.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/January/leetcode547.cpp" />
       </list>
     </option>
   </component>
@@ -176,8 +96,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="680" />
-    <option name="y" value="45" />
+    <option name="x" value="707" />
+    <option name="y" value="47" />
     <option name="width" value="923" />
     <option name="height" value="758" />
   </component>
@@ -197,6 +117,11 @@
               <item name="2021_leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="2021_leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="2021_leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2021_leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="January" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -210,6 +135,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/January" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -247,14 +177,16 @@
       <workItem from="1609637949322" duration="8324000" />
       <workItem from="1609738942668" duration="11809000" />
       <workItem from="1609817767926" duration="2498000" />
+      <workItem from="1609899828474" duration="4088000" />
+      <workItem from="1609979100859" duration="967000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30146000" />
+    <option name="totallyTimeSpent" value="35201000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="680" y="45" width="923" height="758" extended-state="0" />
+    <frame x="707" y="47" width="923" height="758" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.27128264" />
@@ -291,7 +223,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode6.cpp">
+    <entry file="file://$PROJECT_DIR$/January/leetcode6.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
@@ -301,36 +233,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode605.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="43" column="61" lean-forward="true" selection-start-line="43" selection-start-column="61" selection-end-line="43" selection-end-column="61" />
-          <folding>
-            <element signature="e#43#62#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode8.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="58" column="2" selection-start-line="58" selection-start-column="2" selection-end-line="58" selection-end-column="2" />
-          <folding>
-            <element signature="e#42#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode86.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1365">
-          <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
-          <folding>
-            <element signature="e#42#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode605.cpp" />
+    <entry file="file://$PROJECT_DIR$/leetcode8.cpp" />
+    <entry file="file://$PROJECT_DIR$/leetcode86.cpp" />
     <entry file="file://$PROJECT_DIR$/linkedlist.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="402">
@@ -339,71 +244,30 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode238.cpp" />
-    <entry file="file://$PROJECT_DIR$/leetcode239.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="47" column="2" lean-forward="true" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
-          <folding>
-            <element signature="e#43#62#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode177.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode239.cpp" />
+    <entry file="file://$PROJECT_DIR$/leetcode177.cpp" />
     <entry file="file://$PROJECT_DIR$/leetcode1771.cpp" />
-    <entry file="file://$PROJECT_DIR$/leetcode1711.cpp">
+    <entry file="file://$PROJECT_DIR$/leetcode1711.cpp" />
+    <entry file="file://$PROJECT_DIR$/leetcode509.cpp" />
+    <entry file="file://$PROJECT_DIR$/leetcode1712.cpp" />
+    <entry file="file://$PROJECT_DIR$/leetcode1713.cpp" />
+    <entry file="file://$PROJECT_DIR$/leetcode830.cpp" />
+    <entry file="file://$PROJECT_DIR$/January.cpp" />
+    <entry file="file://$PROJECT_DIR$/leetcode399.cpp" />
+    <entry file="file://$PROJECT_DIR$/January/leetcode399.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="15">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
           <folding>
             <element signature="e#43#62#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode509.cpp">
+    <entry file="file://$PROJECT_DIR$/January/leetcode547.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-226">
-          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-          <folding>
-            <element signature="e#43#62#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode1712.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1335">
-          <caret line="89" column="19" lean-forward="true" selection-start-line="89" selection-start-column="19" selection-end-line="89" selection-end-column="19" />
-          <folding>
-            <element signature="e#43#62#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode1713.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12">
-          <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
-          <folding>
-            <element signature="e#45#64#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode830.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="41" column="2" selection-start-line="41" selection-start-column="2" selection-end-line="41" selection-end-column="2" />
+        <state relative-caret-position="1200">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
           <folding>
             <element signature="e#43#62#0" expanded="true" />
           </folding>
@@ -412,8 +276,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="147">
+          <caret line="51" column="27" lean-forward="true" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
