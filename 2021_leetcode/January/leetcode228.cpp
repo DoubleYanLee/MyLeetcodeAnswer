@@ -1,4 +1,8 @@
 //
+// Created by Yannie Lee on 1/10/21.
+//
+
+//
 // Created by Yannie Lee on 1/1/21.
 //
 
@@ -11,51 +15,7 @@
 
 using namespace std;
 
-
-
-struct ListNode{
-    int val;
-    ListNode *next;
-    ListNode(int x) : val(x), next(NULL) {}
-};
-
-ListNode* createLinkedList(int arr[],int n){
-
-    if( n == 0 )
-        return NULL;
-
-    ListNode* head = new ListNode(arr[0]);
-
-    ListNode* curNode = head;
-    for(int i = 1; i < n; i++){
-        curNode->next = new ListNode(arr[i]);
-        curNode = curNode->next;
-    }
-
-    return head;
-}
-
-void deleteLinkedList(ListNode* head){
-    ListNode* curNode = head;
-    while( curNode != NULL ){
-        ListNode* delNode = curNode;
-        curNode = curNode->next;
-        delete delNode;
-    }
-}
-
-void printLinkedList(ListNode* head){
-
-    ListNode* curNode = head;
-    while( curNode != NULL ){
-        cout << curNode->val << " -> ";
-        curNode = curNode->next;
-    }
-
-    cout << "NULL" << endl;
-
-}
-
+//最开始自己的超长代码
 
 class Solution {
 public:
@@ -89,8 +49,29 @@ public:
         }
 
 
-    return  res;
+        return  res;
 
+    }
+};
+
+
+//
+
+class Solution {
+public:
+    vector<string> summaryRanges(vector<int>& nums) {
+        vector<string> ans;
+
+        for( int i = 0 ; i < nums.size(); ){
+            int j = i++;
+            while( i > 0 && i < nums.size() && nums[i] == (nums[i-1] + 1) ) ++ i;
+            string intv;
+            if( i == j + 1 ) intv += to_string( nums[j] );
+            else intv = to_string(nums[j]) + "->" + to_string(nums[i-1]);
+
+            ans.push_back(intv);
+        }
+        return ans;
     }
 };
 
